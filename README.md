@@ -1,6 +1,6 @@
 # Score
-Javascript Game
-Open the game in browser
+Javascript Game \n
+Open the game in browser \n
 Use:
 --Space to throw bullets
 --Arrow keys to go up, down, right left
